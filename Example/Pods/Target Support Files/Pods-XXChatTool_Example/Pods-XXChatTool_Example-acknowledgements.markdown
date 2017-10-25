@@ -1,10 +1,6 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## HyphenateLite
-
-Hyphenate Inc. 2017
-
 ## MLSOAppDelegate
 
 The MIT License (MIT)

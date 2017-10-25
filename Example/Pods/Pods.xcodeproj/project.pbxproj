@@ -8,22 +8,22 @@
 
 /* Begin PBXBuildFile section */
 		08A4378419778A1136E49AA89877C1A0 /* Pods-XXChatTool_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 47D44B60255C224D47D6EDEA6B4E8A3B /* Pods-XXChatTool_Example-dummy.m */; };
-		248260D975254070681E193A3A9C6DD7 /* XXChatTool-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D8EFD8010E2E19132D7F73C98502BB44 /* XXChatTool-dummy.m */; };
-		32C8DB0069844205BF19C5AAF0C9BC84 /* MLSOAppDelegate-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FA36A291917CFA2F29E1FF13F577388 /* MLSOAppDelegate-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		349ED876D5734327C891E2498A643E2A /* MLSOAppDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 719D9FB034ED32FC912FC466D12161B1 /* MLSOAppDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4CFAFC107EBFA1AB913A4420B738FC6C /* MLAppServiceManager.h in Headers */ = {isa = PBXBuildFile; fileRef = F94E0297788C572517D3DF2A98FB4F46 /* MLAppServiceManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		53217D930C31D19A3F850A9FCBBB9699 /* XXChatTool.h in Headers */ = {isa = PBXBuildFile; fileRef = 263C95EA5FB1774B44660EB3307431BC /* XXChatTool.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5360ADBFDF0D6984EFB83FDF982100C8 /* MLAppServiceManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7993A5A2F00A3F8947CB893D0C134D44 /* MLAppServiceManager.m */; };
-		55155F962B4C1223AEEF5246D06DB75C /* XXChatTool-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0670BBF4DC3B92771731B008AA969AC1 /* XXChatTool-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6DCF46FEA0F11D895ED80DC95401E8BA /* MLSOAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BAA4A83E0EFB2D66C5408978406A16F /* MLSOAppDelegate.m */; };
-		85A1887340A65C339C26A8EC9C22E424 /* XXChatTool.m in Sources */ = {isa = PBXBuildFile; fileRef = EC8A9D7DCBD7B8337F6A8C11D37A6381 /* XXChatTool.m */; };
+		248260D975254070681E193A3A9C6DD7 /* XXChatTool-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B19508CE1887C4F6782A1E3CFF6217D4 /* XXChatTool-dummy.m */; };
+		32C8DB0069844205BF19C5AAF0C9BC84 /* MLSOAppDelegate-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3630FBE096F8AB3D54E4910D57B18C34 /* MLSOAppDelegate-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		349ED876D5734327C891E2498A643E2A /* MLSOAppDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C03309C50F2A1D17F03786E6A93B3C1 /* MLSOAppDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4CFAFC107EBFA1AB913A4420B738FC6C /* MLAppServiceManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 790F76B545F6029D79E8699F5A8D1392 /* MLAppServiceManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		53217D930C31D19A3F850A9FCBBB9699 /* XXChatTool.h in Headers */ = {isa = PBXBuildFile; fileRef = C25B52D8FA785892CAAEBB1C225F8D1C /* XXChatTool.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5360ADBFDF0D6984EFB83FDF982100C8 /* MLAppServiceManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 28470E32306C46CA1901E24E032E0A4A /* MLAppServiceManager.m */; };
+		55155F962B4C1223AEEF5246D06DB75C /* XXChatTool-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DC19BBF857D30A5658180BD9C4716DB9 /* XXChatTool-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6DCF46FEA0F11D895ED80DC95401E8BA /* MLSOAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 865BD4A7AC4EA79A99E543E9CBE847CA /* MLSOAppDelegate.m */; };
+		85A1887340A65C339C26A8EC9C22E424 /* XXChatTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F55EDD845DBEABBEB0F1DB047CEF7BD /* XXChatTool.m */; };
 		87E0451F3DF5524DD960E2B353781311 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB3C686BC19AE89F99116B852D51276A /* Foundation.framework */; };
 		907475C7308CF7E9757CA9FF778C91A9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB3C686BC19AE89F99116B852D51276A /* Foundation.framework */; };
 		93411B29E83164B2D49D60BA468643D7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB3C686BC19AE89F99116B852D51276A /* Foundation.framework */; };
 		93A4D258B5312802948BDB29D627C581 /* Pods-XXChatTool_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6160060DFFF84966DE6D3F651956AD08 /* Pods-XXChatTool_Tests-dummy.m */; };
 		B1C558E58237403F25FFE9117215DE76 /* Pods-XXChatTool_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 421A723A07A4DC94EA36898D171D2B56 /* Pods-XXChatTool_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B31107ACE2C035B5A475C6F12F0FE733 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB3C686BC19AE89F99116B852D51276A /* Foundation.framework */; };
-		C186FEB16DC3BA90D17AC69DE5F3A1B3 /* MLSOAppDelegate-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 66002FB9B5FBCD3099AC55A4F15B64A0 /* MLSOAppDelegate-dummy.m */; };
+		C186FEB16DC3BA90D17AC69DE5F3A1B3 /* MLSOAppDelegate-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 37337DCE8637DBAD2F5EEA59D66938C7 /* MLSOAppDelegate-dummy.m */; };
 		CE9E0266A7612A2EEA7116F22BECDCE0 /* MLSOAppDelegate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D42A4BD5D0C738C24F45CACFA9988985 /* MLSOAppDelegate.framework */; };
 		F41E0866D3FC4D44F25344506215C61A /* Pods-XXChatTool_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DCA04EE0D0FC47B2725184E288F0BA59 /* Pods-XXChatTool_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
@@ -53,51 +53,51 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0670BBF4DC3B92771731B008AA969AC1 /* XXChatTool-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XXChatTool-umbrella.h"; sourceTree = "<group>"; };
+		0618A8826E12F6FB524BB7047DEF145D /* MLSOAppDelegate.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = MLSOAppDelegate.modulemap; sourceTree = "<group>"; };
 		0800E519AEFFB3EFCEC3778BAB267AC4 /* Pods-XXChatTool_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XXChatTool_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		0C03309C50F2A1D17F03786E6A93B3C1 /* MLSOAppDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MLSOAppDelegate.h; path = Source/MLSOAppDelegate.h; sourceTree = "<group>"; };
+		1178AEE33633264BB0A3498EC97C669F /* XXChatTool.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XXChatTool.xcconfig; sourceTree = "<group>"; };
 		15F4D086A15CCEB6EC4B62145202A439 /* Pods-XXChatTool_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XXChatTool_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		192CBD569C0871E72B3F4CC56DD674CF /* Pods-XXChatTool_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-XXChatTool_Tests.modulemap"; sourceTree = "<group>"; };
 		1A31F9A536A9B4A1EE0D4C44E08F2D09 /* Pods-XXChatTool_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XXChatTool_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		1A96868206A9B4AA712D6286DEF34CD8 /* Pods_XXChatTool_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XXChatTool_Tests.framework; path = "Pods-XXChatTool_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1BAA4A83E0EFB2D66C5408978406A16F /* MLSOAppDelegate.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MLSOAppDelegate.m; path = Source/MLSOAppDelegate.m; sourceTree = "<group>"; };
-		1E6BD705BD592DF5E67F79162C245EFE /* MLSOAppDelegate-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MLSOAppDelegate-prefix.pch"; sourceTree = "<group>"; };
-		1FA36A291917CFA2F29E1FF13F577388 /* MLSOAppDelegate-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MLSOAppDelegate-umbrella.h"; sourceTree = "<group>"; };
-		249CDDDBBC25DE594C509D44464C9509 /* HyphenateLite.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HyphenateLite.framework; path = ios_IM_HyphenateLite_sdk_3.3.5/HyphenateSDK/HyphenateLite.framework; sourceTree = "<group>"; };
-		24DED10DB463478866F1DE2BC54A2D71 /* MLSOAppDelegate.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MLSOAppDelegate.xcconfig; sourceTree = "<group>"; };
-		263C95EA5FB1774B44660EB3307431BC /* XXChatTool.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XXChatTool.h; path = XXChatTool/Classes/XXChatTool.h; sourceTree = "<group>"; };
-		3B9C303C6C302E136D4826CFF9E46600 /* XXChatTool.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XXChatTool.xcconfig; sourceTree = "<group>"; };
+		1C9916884EE692F0921B2D75F53D232A /* HyphenateLite.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HyphenateLite.framework; path = XXChatTool/Classes/HyphenateLite.framework; sourceTree = "<group>"; };
+		28470E32306C46CA1901E24E032E0A4A /* MLAppServiceManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MLAppServiceManager.m; path = Source/MLAppServiceManager.m; sourceTree = "<group>"; };
+		28A626839E81900D5736BEA7068C4B5A /* MLSOAppDelegate.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MLSOAppDelegate.xcconfig; sourceTree = "<group>"; };
+		3630FBE096F8AB3D54E4910D57B18C34 /* MLSOAppDelegate-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MLSOAppDelegate-umbrella.h"; sourceTree = "<group>"; };
+		37337DCE8637DBAD2F5EEA59D66938C7 /* MLSOAppDelegate-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MLSOAppDelegate-dummy.m"; sourceTree = "<group>"; };
 		421A723A07A4DC94EA36898D171D2B56 /* Pods-XXChatTool_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XXChatTool_Example-umbrella.h"; sourceTree = "<group>"; };
 		43EC68A0B90F277157D3A6BD0FD19DD9 /* Pods-XXChatTool_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XXChatTool_Example-frameworks.sh"; sourceTree = "<group>"; };
-		44B24AA205AA230CCDB3282632444885 /* MLSOAppDelegate.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = MLSOAppDelegate.modulemap; sourceTree = "<group>"; };
 		47D44B60255C224D47D6EDEA6B4E8A3B /* Pods-XXChatTool_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XXChatTool_Example-dummy.m"; sourceTree = "<group>"; };
-		4BC49FB48D6F1E95630BFACB5FD0B6E2 /* XXChatTool.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = XXChatTool.modulemap; sourceTree = "<group>"; };
 		4CE41EE06B2D467DA9BBA9CF0AAD287C /* XXChatTool.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XXChatTool.framework; path = XXChatTool.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5508C5F4535A22AF0AE73E16DF7E7FB6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		587E336D0F7DF5276968D216278E32E6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		593D0347A64414C6073A8602DBBF79E0 /* Pods-XXChatTool_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XXChatTool_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		5E291986E03E6DC19FCC6EF0EAD1240B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6160060DFFF84966DE6D3F651956AD08 /* Pods-XXChatTool_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XXChatTool_Tests-dummy.m"; sourceTree = "<group>"; };
-		66002FB9B5FBCD3099AC55A4F15B64A0 /* MLSOAppDelegate-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MLSOAppDelegate-dummy.m"; sourceTree = "<group>"; };
+		69E0166B4FF553D4C597241D927C30BF /* XXChatTool-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XXChatTool-prefix.pch"; sourceTree = "<group>"; };
 		6D9002600A0555435AA892CB477E921D /* Pods-XXChatTool_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XXChatTool_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		7096CA26902C6154933C038F827B2E4B /* Pods-XXChatTool_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XXChatTool_Example.release.xcconfig"; sourceTree = "<group>"; };
-		719D9FB034ED32FC912FC466D12161B1 /* MLSOAppDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MLSOAppDelegate.h; path = Source/MLSOAppDelegate.h; sourceTree = "<group>"; };
-		7993A5A2F00A3F8947CB893D0C134D44 /* MLAppServiceManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MLAppServiceManager.m; path = Source/MLAppServiceManager.m; sourceTree = "<group>"; };
+		70C7E948F7BFAA4A2A57A105E11516C8 /* XXChatTool.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = XXChatTool.modulemap; sourceTree = "<group>"; };
+		790F76B545F6029D79E8699F5A8D1392 /* MLAppServiceManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MLAppServiceManager.h; path = Source/MLAppServiceManager.h; sourceTree = "<group>"; };
 		7DBD28B616DEFBC625569CC2FE924E0B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7EEB315E141FAEC5D101549A10A51DC8 /* Pods-XXChatTool_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XXChatTool_Tests-resources.sh"; sourceTree = "<group>"; };
 		81DC925B71D7867252657C4E44B16D55 /* Pods-XXChatTool_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XXChatTool_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		865BD4A7AC4EA79A99E543E9CBE847CA /* MLSOAppDelegate.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MLSOAppDelegate.m; path = Source/MLSOAppDelegate.m; sourceTree = "<group>"; };
 		887CA0E684C9A65529C4BCBBE0FD107E /* Pods-XXChatTool_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-XXChatTool_Example.modulemap"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DC452DD8220FB9E5C22450B1450510F /* Pods_XXChatTool_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XXChatTool_Example.framework; path = "Pods-XXChatTool_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9FE2BF21191B3A548464C42E89A4A0BB /* XXChatTool-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XXChatTool-prefix.pch"; sourceTree = "<group>"; };
-		A4794AC851B3BD47C3BAA510D33F0768 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F55EDD845DBEABBEB0F1DB047CEF7BD /* XXChatTool.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XXChatTool.m; path = XXChatTool/Classes/XXChatTool.m; sourceTree = "<group>"; };
 		A59FAD70FD88DD80CB834C0D676540DA /* Pods-XXChatTool_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XXChatTool_Example-resources.sh"; sourceTree = "<group>"; };
+		A609DDA7995172DD8B99F1DF7AA70E85 /* MLSOAppDelegate-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MLSOAppDelegate-prefix.pch"; sourceTree = "<group>"; };
 		AB3C686BC19AE89F99116B852D51276A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		AF245B23CCECB9A8565D998A3D8CB3A8 /* MLSOAppDelegate.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MLSOAppDelegate.framework; path = MLSOAppDelegate.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B19508CE1887C4F6782A1E3CFF6217D4 /* XXChatTool-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XXChatTool-dummy.m"; sourceTree = "<group>"; };
+		C25B52D8FA785892CAAEBB1C225F8D1C /* XXChatTool.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XXChatTool.h; path = XXChatTool/Classes/XXChatTool.h; sourceTree = "<group>"; };
 		D42A4BD5D0C738C24F45CACFA9988985 /* MLSOAppDelegate.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MLSOAppDelegate.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D8EFD8010E2E19132D7F73C98502BB44 /* XXChatTool-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XXChatTool-dummy.m"; sourceTree = "<group>"; };
+		D76BE3D9FDA8258C1087A1D211BB38AA /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC19BBF857D30A5658180BD9C4716DB9 /* XXChatTool-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XXChatTool-umbrella.h"; sourceTree = "<group>"; };
 		DCA04EE0D0FC47B2725184E288F0BA59 /* Pods-XXChatTool_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XXChatTool_Tests-umbrella.h"; sourceTree = "<group>"; };
-		EC8A9D7DCBD7B8337F6A8C11D37A6381 /* XXChatTool.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XXChatTool.m; path = XXChatTool/Classes/XXChatTool.m; sourceTree = "<group>"; };
 		F6444ADA3E8D541AF658BA5ED35BBDB7 /* Pods-XXChatTool_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XXChatTool_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		F94E0297788C572517D3DF2A98FB4F46 /* MLAppServiceManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MLAppServiceManager.h; path = Source/MLAppServiceManager.h; sourceTree = "<group>"; };
 		FAD37DE136780D901EE341537C30FA18 /* Pods-XXChatTool_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XXChatTool_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -182,29 +182,26 @@
 			path = "Target Support Files/Pods-XXChatTool_Example";
 			sourceTree = "<group>";
 		};
-		41CE09CAB5F7634044D967B0CE6AF58B /* Support Files */ = {
+		584ED187396AC79B894B83D4BA515F55 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				A4794AC851B3BD47C3BAA510D33F0768 /* Info.plist */,
-				4BC49FB48D6F1E95630BFACB5FD0B6E2 /* XXChatTool.modulemap */,
-				3B9C303C6C302E136D4826CFF9E46600 /* XXChatTool.xcconfig */,
-				D8EFD8010E2E19132D7F73C98502BB44 /* XXChatTool-dummy.m */,
-				9FE2BF21191B3A548464C42E89A4A0BB /* XXChatTool-prefix.pch */,
-				0670BBF4DC3B92771731B008AA969AC1 /* XXChatTool-umbrella.h */,
+				EE36D9231095796EF1DC126E49A3812B /* MLSOAppDelegate */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/XXChatTool";
+			name = Pods;
 			sourceTree = "<group>";
 		};
-		61FEE4C8E0DD157A3AB2EA04636332E8 /* XXChatTool */ = {
+		58B066A958A0B24BC8A738E41C6B5E08 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				263C95EA5FB1774B44660EB3307431BC /* XXChatTool.h */,
-				EC8A9D7DCBD7B8337F6A8C11D37A6381 /* XXChatTool.m */,
-				41CE09CAB5F7634044D967B0CE6AF58B /* Support Files */,
+				5E291986E03E6DC19FCC6EF0EAD1240B /* Info.plist */,
+				0618A8826E12F6FB524BB7047DEF145D /* MLSOAppDelegate.modulemap */,
+				28A626839E81900D5736BEA7068C4B5A /* MLSOAppDelegate.xcconfig */,
+				37337DCE8637DBAD2F5EEA59D66938C7 /* MLSOAppDelegate-dummy.m */,
+				A609DDA7995172DD8B99F1DF7AA70E85 /* MLSOAppDelegate-prefix.pch */,
+				3630FBE096F8AB3D54E4910D57B18C34 /* MLSOAppDelegate-umbrella.h */,
 			);
-			name = XXChatTool;
-			path = ../..;
+			name = "Support Files";
+			path = "../Target Support Files/MLSOAppDelegate";
 			sourceTree = "<group>";
 		};
 		740961AA08D6C1C23BAF2C0B6080E0FB /* Frameworks */ = {
@@ -216,38 +213,38 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		77D4167347FBA210679C3ED4846CF365 /* MLSOAppDelegate */ = {
-			isa = PBXGroup;
-			children = (
-				F94E0297788C572517D3DF2A98FB4F46 /* MLAppServiceManager.h */,
-				7993A5A2F00A3F8947CB893D0C134D44 /* MLAppServiceManager.m */,
-				719D9FB034ED32FC912FC466D12161B1 /* MLSOAppDelegate.h */,
-				1BAA4A83E0EFB2D66C5408978406A16F /* MLSOAppDelegate.m */,
-				E9A84D34DFC627F6EC33A17A8E471D29 /* Support Files */,
-			);
-			name = MLSOAppDelegate;
-			path = MLSOAppDelegate;
-			sourceTree = "<group>";
-		};
-		7CA1CF081761DA2AB6D6775197F6013C /* HyphenateLite */ = {
-			isa = PBXGroup;
-			children = (
-				F72A548873617FC19369E7CB3FD89C8B /* Frameworks */,
-			);
-			name = HyphenateLite;
-			path = HyphenateLite;
-			sourceTree = "<group>";
-		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				BBCE1702254E1D8790C09DF84AE12027 /* Development Pods */,
+				E035157F5FE1BE78D537AFAE087F6AAC /* Development Pods */,
 				740961AA08D6C1C23BAF2C0B6080E0FB /* Frameworks */,
-				DC893BA7A3E92DCECCED39E65C9012C6 /* Pods */,
+				584ED187396AC79B894B83D4BA515F55 /* Pods */,
 				A096DDD3A82071F93094FDE53EF3A1D0 /* Products */,
 				A2E21DFEB9D6158AE12D6A7F03A93974 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		94406AF094D497924B2FFF939B528558 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1C9916884EE692F0921B2D75F53D232A /* HyphenateLite.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		95EC63B85322DF63FB6C35A16E84E221 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				D76BE3D9FDA8258C1087A1D211BB38AA /* Info.plist */,
+				70C7E948F7BFAA4A2A57A105E11516C8 /* XXChatTool.modulemap */,
+				1178AEE33633264BB0A3498EC97C669F /* XXChatTool.xcconfig */,
+				B19508CE1887C4F6782A1E3CFF6217D4 /* XXChatTool-dummy.m */,
+				69E0166B4FF553D4C597241D927C30BF /* XXChatTool-prefix.pch */,
+				DC19BBF857D30A5658180BD9C4716DB9 /* XXChatTool-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/XXChatTool";
 			sourceTree = "<group>";
 		};
 		A096DDD3A82071F93094FDE53EF3A1D0 /* Products */ = {
@@ -270,43 +267,37 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		BBCE1702254E1D8790C09DF84AE12027 /* Development Pods */ = {
+		E035157F5FE1BE78D537AFAE087F6AAC /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				61FEE4C8E0DD157A3AB2EA04636332E8 /* XXChatTool */,
+				F373B71C05B9ABF3DFE50E5D557AAD0C /* XXChatTool */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		DC893BA7A3E92DCECCED39E65C9012C6 /* Pods */ = {
+		EE36D9231095796EF1DC126E49A3812B /* MLSOAppDelegate */ = {
 			isa = PBXGroup;
 			children = (
-				7CA1CF081761DA2AB6D6775197F6013C /* HyphenateLite */,
-				77D4167347FBA210679C3ED4846CF365 /* MLSOAppDelegate */,
+				790F76B545F6029D79E8699F5A8D1392 /* MLAppServiceManager.h */,
+				28470E32306C46CA1901E24E032E0A4A /* MLAppServiceManager.m */,
+				0C03309C50F2A1D17F03786E6A93B3C1 /* MLSOAppDelegate.h */,
+				865BD4A7AC4EA79A99E543E9CBE847CA /* MLSOAppDelegate.m */,
+				58B066A958A0B24BC8A738E41C6B5E08 /* Support Files */,
 			);
-			name = Pods;
+			name = MLSOAppDelegate;
+			path = MLSOAppDelegate;
 			sourceTree = "<group>";
 		};
-		E9A84D34DFC627F6EC33A17A8E471D29 /* Support Files */ = {
+		F373B71C05B9ABF3DFE50E5D557AAD0C /* XXChatTool */ = {
 			isa = PBXGroup;
 			children = (
-				5508C5F4535A22AF0AE73E16DF7E7FB6 /* Info.plist */,
-				44B24AA205AA230CCDB3282632444885 /* MLSOAppDelegate.modulemap */,
-				24DED10DB463478866F1DE2BC54A2D71 /* MLSOAppDelegate.xcconfig */,
-				66002FB9B5FBCD3099AC55A4F15B64A0 /* MLSOAppDelegate-dummy.m */,
-				1E6BD705BD592DF5E67F79162C245EFE /* MLSOAppDelegate-prefix.pch */,
-				1FA36A291917CFA2F29E1FF13F577388 /* MLSOAppDelegate-umbrella.h */,
+				C25B52D8FA785892CAAEBB1C225F8D1C /* XXChatTool.h */,
+				9F55EDD845DBEABBEB0F1DB047CEF7BD /* XXChatTool.m */,
+				94406AF094D497924B2FFF939B528558 /* Frameworks */,
+				95EC63B85322DF63FB6C35A16E84E221 /* Support Files */,
 			);
-			name = "Support Files";
-			path = "../Target Support Files/MLSOAppDelegate";
-			sourceTree = "<group>";
-		};
-		F72A548873617FC19369E7CB3FD89C8B /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				249CDDDBBC25DE594C509D44464C9509 /* HyphenateLite.framework */,
-			);
-			name = Frameworks;
+			name = XXChatTool;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -628,7 +619,7 @@
 		};
 		28B60F68054E4A90B55C8A773BEE0CAA /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 24DED10DB463478866F1DE2BC54A2D71 /* MLSOAppDelegate.xcconfig */;
+			baseConfigurationReference = 28A626839E81900D5736BEA7068C4B5A /* MLSOAppDelegate.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -697,7 +688,7 @@
 		};
 		6F00B64C95163CAA7BCC436B2E1A1646 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3B9C303C6C302E136D4826CFF9E46600 /* XXChatTool.xcconfig */;
+			baseConfigurationReference = 1178AEE33633264BB0A3498EC97C669F /* XXChatTool.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -730,7 +721,7 @@
 		};
 		7633DA032A2A699267AC453D9F0140C8 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 24DED10DB463478866F1DE2BC54A2D71 /* MLSOAppDelegate.xcconfig */;
+			baseConfigurationReference = 28A626839E81900D5736BEA7068C4B5A /* MLSOAppDelegate.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -763,7 +754,7 @@
 		};
 		7D6FC9A4C4D2110F460473E9618819AB /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3B9C303C6C302E136D4826CFF9E46600 /* XXChatTool.xcconfig */;
+			baseConfigurationReference = 1178AEE33633264BB0A3498EC97C669F /* XXChatTool.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";

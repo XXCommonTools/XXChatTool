@@ -1,6 +1,6 @@
 {
   "name": "XXChatTool",
-  "version": "0.1.4",
+  "version": "0.1.0",
   "summary": "A short description of XXChatTool.",
   "description": "XXChatTool desc Information",
   "homepage": "https://github.com/XXCommonTools/XXChatTool",
@@ -13,18 +13,18 @@
   },
   "source": {
     "git": "https://github.com/XXCommonTools/XXChatTool.git",
-    "tag": "0.1.4"
+    "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "XXChatTool/Classes/**/*",
+  "source_files": "XXChatTool/Classes/*.{h,m}",
   "dependencies": {
     "MLSOAppDelegate": [
 
-    ],
-    "HyphenateLite": [
-
     ]
+  },
+  "ios": {
+    "vendored_frameworks": "XXChatTool/Classes/*.framework"
   }
 }

@@ -102,13 +102,13 @@ strip_invalid_archs() {
 
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_framework "${PODS_ROOT}/HyphenateLite/ios_IM_HyphenateLite_sdk_3.3.5/HyphenateSDK/HyphenateLite.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/MLSOAppDelegate/MLSOAppDelegate.framework"
+  install_framework "${PODS_ROOT}/../../XXChatTool/Classes/HyphenateLite.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/XXChatTool/XXChatTool.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_framework "${PODS_ROOT}/HyphenateLite/ios_IM_HyphenateLite_sdk_3.3.5/HyphenateSDK/HyphenateLite.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/MLSOAppDelegate/MLSOAppDelegate.framework"
+  install_framework "${PODS_ROOT}/../../XXChatTool/Classes/HyphenateLite.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/XXChatTool/XXChatTool.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then

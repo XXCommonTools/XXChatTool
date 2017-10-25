@@ -1,8 +1,6 @@
 PODS:
-  - HyphenateLite (3.3.5)
   - MLSOAppDelegate (0.0.1)
-  - XXChatTool (0.1.4):
-    - HyphenateLite
+  - XXChatTool (0.1.0):
     - MLSOAppDelegate
 
 DEPENDENCIES:
@@ -13,9 +11,8 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  HyphenateLite: 5aab5e5f12a1086ae16f6c967501a17073b46a41
   MLSOAppDelegate: 721b6f35cf63336eb7a2a2ee3fab12bbc1473ef5
-  XXChatTool: 9bec270a7f8cfe51aa568487602eb3fc65d53374
+  XXChatTool: 78cf6285e7429bb9f16f7a0eed8f0b510cf7a50e
 
 PODFILE CHECKSUM: 6ce05a04e86bfeaae5ceab7853cb11d25c9c78e0
 
