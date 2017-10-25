@@ -1,0 +1,6 @@
+framework module MLSOAppDelegate {
+  umbrella header "MLSOAppDelegate-umbrella.h"
+
+  export *
+  module * { export * }
+}

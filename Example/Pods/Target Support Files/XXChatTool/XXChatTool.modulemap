@@ -1,0 +1,6 @@
+framework module XXChatTool {
+  umbrella header "XXChatTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

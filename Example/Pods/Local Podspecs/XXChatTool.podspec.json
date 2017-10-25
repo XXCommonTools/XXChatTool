@@ -1,0 +1,30 @@
+{
+  "name": "XXChatTool",
+  "version": "0.1.4",
+  "summary": "A short description of XXChatTool.",
+  "description": "XXChatTool desc Information",
+  "homepage": "https://github.com/XXCommonTools/XXChatTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangzi": "595919268@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/XXCommonTools/XXChatTool.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XXChatTool/Classes/**/*",
+  "dependencies": {
+    "MLSOAppDelegate": [
+
+    ],
+    "HyphenateLite": [
+
+    ]
+  }
+}
