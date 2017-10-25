@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XXChatTool_Example' do
+  pod 'XXChatTool', :path => '../'
+
+  target 'XXChatTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
