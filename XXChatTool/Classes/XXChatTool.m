@@ -33,27 +33,24 @@ ML_EXPORT_SERVICE(ChatTool)
     });
     return sharedInstance;
 }
-- (instancetype)init {
-    
-    if (self = [super init]) {
-        
-        EMOptions *options = [EMOptions optionsWithAppkey:self.appKey];
-        options.apnsCertName = self.notifcationCertName;
-        options.isAutoLogin = YES;
-        options.isAutoAcceptGroupInvitation = NO;
-        options.usingHttpsOnly = YES;
-        options.enableConsoleLog = NO;
-
-        [[EMClient sharedClient] initializeSDKWithOptions:options];
-        [[EMClient sharedClient] addDelegate:self delegateQueue:nil];
-        [[EMClient sharedClient].chatManager addDelegate:self delegateQueue:nil];
-        [[EMClient sharedClient].groupManager addDelegate:self delegateQueue:nil];
-    }
-    return self;
-}
 
 #pragma mark - private
 #pragma mark - public
+///初始化环信
+- (void)setUpHuanXinWithAppkey:(NSString *)appkey notificationCertName:(NSString *)notificationCertName {
+    
+    EMOptions *options = [EMOptions optionsWithAppkey:appkey];
+    options.apnsCertName = notificationCertName;
+    options.isAutoLogin = YES;
+    options.isAutoAcceptGroupInvitation = NO;
+    options.usingHttpsOnly = YES;
+    options.enableConsoleLog = NO;
+    
+    [[EMClient sharedClient] initializeSDKWithOptions:options];
+    [[EMClient sharedClient] addDelegate:self delegateQueue:nil];
+    [[EMClient sharedClient].chatManager addDelegate:self delegateQueue:nil];
+    [[EMClient sharedClient].groupManager addDelegate:self delegateQueue:nil];
+}
 
 #pragma mark - delegate
 #pragma mark - UIApplicationDelegate

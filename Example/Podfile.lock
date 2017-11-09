@@ -1,6 +1,6 @@
 PODS:
   - MLSOAppDelegate (0.0.1)
-  - XXChatTool (0.1.0):
+  - XXChatTool (0.1.1):
     - MLSOAppDelegate
 
 DEPENDENCIES:
@@ -12,7 +12,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   MLSOAppDelegate: 721b6f35cf63336eb7a2a2ee3fab12bbc1473ef5
-  XXChatTool: 78cf6285e7429bb9f16f7a0eed8f0b510cf7a50e
+  XXChatTool: 4698cf759b404c413e6da3c0e6272a15c49d1f77
 
 PODFILE CHECKSUM: 6ce05a04e86bfeaae5ceab7853cb11d25c9c78e0
 
