@@ -63,12 +63,6 @@ ML_EXPORT_SERVICE(ChatTool)
 - (void)applicationDidEnterBackground:(UIApplication *)application {
 
     [[EMClient sharedClient] applicationDidEnterBackground:application];
-    NSInteger unreadMsgCount = 0;
-    NSArray *conversations = [[EMClient sharedClient].chatManager getAllConversations];
-    for (EMConversation *conversation in conversations) {
-        unreadMsgCount += conversation.unreadMessagesCount;
-    }
-    application.applicationIconBadgeNumber = unreadMsgCount;
 }
 - (void)applicationWillEnterForeground:(UIApplication *)application {
 
@@ -83,15 +77,8 @@ ML_EXPORT_SERVICE(ChatTool)
 #pragma mark - EMGroupManagerDelegate
 #pragma mark - EMChatManagerDelegate
 - (void)messagesDidReceive:(NSArray *)aMessages {
-
-    //接收到消息播放
-    NSInteger unreadMsgCount = 0;
-    NSArray *conversations = [[EMClient sharedClient].chatManager getAllConversations];
-    for (EMConversation *conversation in conversations) {
-
-        unreadMsgCount += conversation.unreadMessagesCount;
-    }
-    [UIApplication sharedApplication].applicationIconBadgeNumber = unreadMsgCount;
+    
+    
 }
 #pragma mark - RemoteNotification
 - (void)registerRemoteNotification {
