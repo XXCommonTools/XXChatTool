@@ -71,8 +71,6 @@ ML_EXPORT_SERVICE(ChatTool)
 #pragma mark - EMClientDelegate
 - (void)didLoginFromOtherDevice {
 
-    UIAlertView *alertView = [[UIAlertView alloc] initWithTitle:@"" message:@"同一帐号已在其他设备上登录" delegate:self cancelButtonTitle:@"确定" otherButtonTitles:nil, nil];
-    [alertView show];
 }
 #pragma mark - EMGroupManagerDelegate
 #pragma mark - EMChatManagerDelegate
